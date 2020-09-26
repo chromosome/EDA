@@ -25,7 +25,7 @@ std::vector<size_t> SuffixArray::search(const std::string &pattern) {
 	auto lb = std::lower_bound(_arr, _arr+_size, pattern.c_str(), [&](size_t a,const char* b) { return strcmp(_txt+a,b)<0; });
 	auto ub = std::upper_bound(lb, _arr+_size, pattern.c_str(), [&](const char* b,size_t a) { return strncmp(b,_txt+a, p_s)<0; });
 
-	return std::vector<size_t>(lb,ub);
+	return std::vector<size_t>();//std::vector<size_t>(lb,ub);
 }
 
 
