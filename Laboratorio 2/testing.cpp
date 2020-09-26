@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// BUILDING TEST
 void pre_processing_testing(string in) {
 	// For csv table
 	cout << "n;time" << endl;
@@ -32,7 +33,8 @@ void pre_processing_testing(string in) {
 		cout << substr_in.size() << ";" << t/t_samples << endl;
 	}
 }
-// probar cuantas pilla con sa y con bruto forze
+
+// TESTING WITH MOST COMMON WORDS IN ENGLISH
 void most_common_english_words_test(SuffixArray &sa, string &txt) {
 	const char *eng[] = {"the","be","to","of","and","a","in","that","have","I"};
 
@@ -67,7 +69,8 @@ void most_common_english_words_test(SuffixArray &sa, string &txt) {
 	}
 }
 
-void fixed_sized_pattern_var(SuffixArray &sa, string &txt) {
+// RANDOMIZING THE PATTERN AND TESTING
+void fixed_size_pattern_var(SuffixArray &sa, string &txt) {
 	// Generate 20 patterns with variable size
 	// without "\n"
 	vector<string> patterns(20);
@@ -107,6 +110,52 @@ void fixed_sized_pattern_var(SuffixArray &sa, string &txt) {
 	}
 }
 
+// TESTING VARING SIZE ON TXT AND PATTERN
+void varing_size_varing_pattern_size(string txt) {
+	cout << "n;time_sa;time_bf" << endl;
+
+	int n = 20;
+	size_t t_samples = 20;
+
+	for (int i=1; i<=n; i++) {
+		string substr_in = txt.substr(0,(txt.size()/n)*i);
+
+		SuffixArray build_test(substr_in);
+
+		double t = 0.0;
+		for (int j=0; j<t_samples; j++) {
+			// Random pattern
+			string pattern;
+			do {
+				pattern = txt.substr(rand()%(txt.size()/4), rand()%100);
+			} while (brute_force_string_search(pattern, string("\n"))!=0);
+
+			auto start = clock();
+			build_test.search(pattern);
+			auto end = clock();
+			t+= ((double) (end-start)) / CLOCKS_PER_SEC;
+		}
+		cout << substr_in.size() << ";" << 1000*t/t_samples;
+
+		//TESTING BRUTE FORCE
+		t = 0.0;
+		for (int j=0; j<t_samples; j++) {
+			// Random pattern
+			string pattern;
+			do {
+				pattern = txt.substr(rand()%(txt.size()/4), rand()%100);
+			} while (brute_force_string_search(pattern, string("\n"))!=0);
+			
+			auto start = clock();
+			brute_force_string_search(substr_in, pattern);
+			auto end = clock();
+			t+= ((double) (end-start)) / CLOCKS_PER_SEC;
+		}
+		cout << ";" << 1000*t/t_samples << endl;
+
+	}
+}
+
 int main() {
 	// Testing Area
 	// READING TXT FILE
@@ -121,26 +170,12 @@ int main() {
 
 	// in = in.substr(0,1000000);
 
-	SuffixArray sa_test(in);
 	// pre_processing_testing(in);
+	varing_size_varing_pattern_size(in);
+
+	// SuffixArray sa_test(in);
 	// most_common_english_words_test(sa_test,in);
-	fixed_sized_pattern_var(sa_test,in);
-
-
-	// string pattern = "the";
-
-	// // SUFFIX ARRAY
-	// auto start = clock();
-	// cout << "SuffixArray " << sa_test.search(pattern).size() << endl;
-	// auto end = clock();
-	// cout << "search in " << ((double) (end - start)) / CLOCKS_PER_SEC << endl;
-
-	// // BRUTE FORCE
-	// start = clock();
-	// cout << "BruteForce " << brute_force_string_search(in, pattern) << endl;
-	// end = clock();
-	// cout << "search in " << ((double) (end - start)) / CLOCKS_PER_SEC << endl;
-
+	// fixed_size_pattern_var(sa_test,in);
 
 	return 0;
 }
