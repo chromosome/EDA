@@ -1,0 +1,150 @@
+PWD D:\MEGA\2020 Ma Cs de la Computacion\2020-2\EDA\Laboratorio 2\Boletin
+INPUT C:\Users\snow_\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT D:\MEGA\2020 Ma Cs de la Computacion\2020-2\EDA\Laboratorio 2\Boletin\boletin.tex
+OUTPUT D:\MEGA\2020 Ma Cs de la Computacion\2020-2\EDA\Laboratorio 2\Boletin\boletin.log
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifpdf.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifpdf.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifxetex.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifxetex.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT D:\MEGA\2020 Ma Cs de la Computacion\2020-2\EDA\Laboratorio 2\Boletin\boletin.aux
+INPUT D:\MEGA\2020 Ma Cs de la Computacion\2020-2\EDA\Laboratorio 2\Boletin\boletin.aux
+OUTPUT D:\MEGA\2020 Ma Cs de la Computacion\2020-2\EDA\Laboratorio 2\Boletin\boletin.aux
+INPUT D:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr9.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx9.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+OUTPUT D:\MEGA\2020 Ma Cs de la Computacion\2020-2\EDA\Laboratorio 2\Boletin\boletin.pdf
+INPUT C:\Users\snow_\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx7.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx5.tfm
+INPUT Fig\Busqueda por tamanio.png
+INPUT .\Fig\Busqueda por tamanio.png
+INPUT .\Fig\Busqueda por tamanio.png
+INPUT .\Fig\Busqueda por tamanio.png
+INPUT .\Fig\Busqueda por tamanio.png
+INPUT Fig\Busqueda por p.png
+INPUT .\Fig\Busqueda por p.png
+INPUT .\Fig\Busqueda por p.png
+INPUT .\Fig\Busqueda por p.png
+INPUT .\Fig\Busqueda por p.png
+INPUT Fig\Busqueda por p grande.png
+INPUT .\Fig\Busqueda por p grande.png
+INPUT .\Fig\Busqueda por p grande.png
+INPUT .\Fig\Busqueda por p grande.png
+INPUT .\Fig\Busqueda por p grande.png
+INPUT D:\MEGA\2020 Ma Cs de la Computacion\2020-2\EDA\Laboratorio 2\Boletin\boletin.aux
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx9.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx9.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr9.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr9.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb
