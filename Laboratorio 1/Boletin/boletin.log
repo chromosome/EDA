@@ -1,0 +1,234 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.9)  18 SEP 2020 00:14
+entering extended mode
+**"D:/MEGA/2020 Ma Cs de la Computacion/2020-2/EDA/Laboratorio 1/Boletin/boleti
+n.tex"
+
+("D:/MEGA/2020 Ma Cs de la Computacion/2020-2/EDA/Laboratorio 1/Boletin/boletin
+.tex"
+LaTeX2e <2019-10-01> patch level 1
+("D:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
+("D:\Program Files\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2019/04/01 v2.17c AMS math features
+\@mathmargin=\skip43
+For additional information on amsmath, use the `?' option.
+("D:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+("D:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+)) ("D:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2855.
+LaTeX Info: Redefining \] on input line 2856.
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+("D:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/10/08 v1.3c Standard LaTeX Graphics (DPC,SPQR)
+("D:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+("D:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("D:\MEGA\2020 Ma Cs de la Computacion\2020-2\EDA\Laboratorio 1\Boletin\boletin
+.aux")
+\openout1 = `boletin.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+("D:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen114
+\scratchbox=\box29
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen115
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks21
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+("D:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+("D:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+("D:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))) ("D:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+("D:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+("D:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+("D:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifluatex.sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+("D:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2019/10/24 v1.0a TeX engine tests
+))))) ("D:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+("D:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifpdf.sty"
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+
+("D:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+
+("D:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 27.
+
+[1
+
+{C:/Users/snow_/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+<./Fig/Busqueda por tamanio.png, id=20, 969.8634pt x 346.896pt>
+File: ./Fig/Busqueda por tamanio.png Graphic file (type png)
+<use ./Fig/Busqueda por tamanio.png>
+Package pdftex.def Info: ./Fig/Busqueda por tamanio.png  used on input line 92.
+
+(pdftex.def)             Requested size: 345.0pt x 123.39507pt.
+<./Fig/Busqueda por p.png, id=22, 1119.4623pt x 346.896pt>
+File: ./Fig/Busqueda por p.png Graphic file (type png)
+<use ./Fig/Busqueda por p.png>
+Package pdftex.def Info: ./Fig/Busqueda por p.png  used on input line 99.
+(pdftex.def)             Requested size: 345.0pt x 106.90675pt.
+<./Fig/Busqueda por p grande.png, id=23, 462.528pt x 346.896pt>
+File: ./Fig/Busqueda por p grande.png Graphic file (type png)
+<use ./Fig/Busqueda por p grande.png>
+Package pdftex.def Info: ./Fig/Busqueda por p grande.png  used on input line 10
+6.
+(pdftex.def)             Requested size: 241.49895pt x 181.12799pt.
+[3 <./Fig/Busqueda por tamanio.png>] [4 <./Fig/Busqueda por p.png> <./Fig/Busqu
+eda por p grande.png>]
+("D:\MEGA\2020 Ma Cs de la Computacion\2020-2\EDA\Laboratorio 1\Boletin\boletin
+.aux") ) 
+Here is how much of TeX's memory you used:
+ 2282 strings out of 492453
+ 31152 string characters out of 3129820
+ 101684 words of memory out of 3000000
+ 6604 multiletter control sequences out of 15000+200000
+ 12729 words of font info for 49 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 53i,8n,32p,691b,234s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr17.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mr7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><D
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on "D:\MEGA\2020 Ma Cs de la Computacion\2020-2\EDA\Laboratorio 
+1\Boletin\boletin.pdf" (4 pages, 316377 bytes).
+PDF statistics:
+ 70 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
