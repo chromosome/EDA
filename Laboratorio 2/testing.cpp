@@ -168,14 +168,12 @@ int main() {
 		in = ss.str();
 	}
 
-	// in = in.substr(0,1000000);
-
-	// pre_processing_testing(in);
+	pre_processing_testing(in);
 	varing_size_varing_pattern_size(in);
 
-	// SuffixArray sa_test(in);
-	// most_common_english_words_test(sa_test,in);
-	// fixed_size_pattern_var(sa_test,in);
+	SuffixArray sa_test(in);
+	most_common_english_words_test(sa_test,in);
+	fixed_size_pattern_var(sa_test,in);
 
 	return 0;
 }
