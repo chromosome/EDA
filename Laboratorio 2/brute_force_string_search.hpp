@@ -28,10 +28,10 @@ size_t brute_force_string_search(const char *text, size_t n, const char *pattern
 				break;
 
 		if (j==m)
-			break;
+			return i;
 	}
 
-	return i;
+	return n;
 }
 
 #endif

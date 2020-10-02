@@ -2,8 +2,8 @@
 #define BOYER_MOORE
 
 #include <string>
-#include <unordered_map>
 #include <algorithm>
+#include <string.h>
 
 // size_t boyer_moore(const std::string &t, const std::string &p) {
 // 	// preprocess pattern
@@ -36,18 +36,21 @@
 
 size_t boyer_moore(const char *text, size_t n, const char *pattern, size_t m) {
 	// preprocess pattern
-	std::unordered_map<char,size_t> bad_match_table;
+	size_t* bad_match_table = new size_t[256];
+	memset(bad_match_table,0,256*sizeof(size_t));
 
 	for (size_t i=0; i<m; i++)
 		bad_match_table[pattern[i]] = std::max(size_t(1), m-i-1);
 
 	// compare
-	for (int i=0, step; i<=n-m; i+=step) {
+	for (int i=0, step; i<n-m; i+=step) {
 		step = 0;
 
+		// check pattern
 		for (int j=m-1; j>=0; j--) {
+			// If missmatch
 			if (text[i+j]!=pattern[j]) {
-				if (bad_match_table.find(text[i+j])!=bad_match_table.end()) {
+				if (bad_match_table[text[i+j]]!=0) {
 					step = bad_match_table[text[i+j]];
 					break;
 				}
@@ -57,9 +60,13 @@ size_t boyer_moore(const char *text, size_t n, const char *pattern, size_t m) {
 				}
 			}
 		}
-		if (step==0) return i;
+		if (step==0) {
+			delete[] bad_match_table;
+			return i;
+		}
 	}
 
+	delete[] bad_match_table;
 	return n;
 }
 
