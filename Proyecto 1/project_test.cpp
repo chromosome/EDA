@@ -1,5 +1,5 @@
 #include "boyer_moore.hpp"
-#include "kmp.hpp"
+#include "KMP.hpp"
 #include "../Laboratorio 2/brute_force_string_search.hpp"
 #include <string>
 #include <iostream>
@@ -97,7 +97,8 @@ int main() {
 	file_text = "../text database/english.50MB";
 	// file_text = "../text database/dna.50MB";
 	// file_text = "../text database/proteins.50MB";
-	test(file_text, boyer_moore);
+	// test(file_text, boyer_moore);
+	test(file_text, kmp);
 	
 
 
