@@ -34,16 +34,16 @@
 // 	return t.size();
 // }
 
-size_t boyer_moore(const char *text, size_t n, const char *pattern, size_t m) {
+size_t boyer_moore(const char *text, size_t n, const char *pattern, size_t m, size_t Sigma=256) {
 	// preprocess pattern
-	size_t* bad_match_table = new size_t[256];
-	memset(bad_match_table,0,256*sizeof(size_t));
+	size_t* bad_match_table = new size_t[Sigma];
+	memset(bad_match_table,0,Sigma*sizeof(size_t));
 
 	for (size_t i=0; i<m; i++)
-		bad_match_table[pattern[i]] = std::max(size_t(1), m-i-1);
+		bad_match_table[pattern[i]] = std::max(1ul, m-i-1);
 
 	// compare
-	for (int i=0, step; i<n-m; i+=step) {
+	for (int i=0, step; i<=n-m; i+=step) {
 		step = 0;
 
 		// check pattern
