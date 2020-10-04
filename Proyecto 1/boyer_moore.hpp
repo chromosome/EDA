@@ -50,7 +50,7 @@ size_t boyer_moore(const char *text, size_t n, const char *pattern, size_t m, si
 		for (int j=m-1; j>=0; j--) {
 			// If missmatch
 			if (text[i+j]!=pattern[j]) {
-				if (bad_match_table[text[i+j]]!=0) {
+				if (bad_match_table[text[i+j]]!=0 and 0<=text[i+j]) {
 					step = bad_match_table[text[i+j]];
 					break;
 				}
@@ -61,6 +61,7 @@ size_t boyer_moore(const char *text, size_t n, const char *pattern, size_t m, si
 			}
 		}
 		if (step==0) {
+			// step = 1;
 			delete[] bad_match_table;
 			return i;
 		}
